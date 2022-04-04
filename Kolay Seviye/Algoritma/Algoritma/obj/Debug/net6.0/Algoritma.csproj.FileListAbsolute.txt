@@ -1,0 +1,15 @@
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\bin\Debug\net6.0\Algoritma.exe
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\bin\Debug\net6.0\Algoritma.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\bin\Debug\net6.0\Algoritma.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\bin\Debug\net6.0\Algoritma.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\bin\Debug\net6.0\Algoritma.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\refint\Algoritma.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\Algoritma.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Algoritma\Algoritma\obj\Debug\net6.0\ref\Algoritma.dll
