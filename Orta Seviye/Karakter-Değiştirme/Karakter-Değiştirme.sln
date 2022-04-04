@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karakter-Değiştirme", "Karakter-Değiştirme\Karakter-Değiştirme.csproj", "{761962CA-F146-4D81-A9C6-1A51E41C2B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{761962CA-F146-4D81-A9C6-1A51E41C2B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{761962CA-F146-4D81-A9C6-1A51E41C2B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{761962CA-F146-4D81-A9C6-1A51E41C2B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{761962CA-F146-4D81-A9C6-1A51E41C2B64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {234AF311-87C7-46D8-96A8-D1141951E129}
+	EndGlobalSection
+EndGlobal
