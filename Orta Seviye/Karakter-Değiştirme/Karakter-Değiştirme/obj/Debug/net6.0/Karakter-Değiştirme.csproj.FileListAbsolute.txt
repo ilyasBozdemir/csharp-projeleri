@@ -1,0 +1,15 @@
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\bin\Debug\net6.0\Karakter-Değiştirme.exe
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\bin\Debug\net6.0\Karakter-Değiştirme.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\bin\Debug\net6.0\Karakter-Değiştirme.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\bin\Debug\net6.0\Karakter-Değiştirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\bin\Debug\net6.0\Karakter-Değiştirme.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\refint\Karakter-Değiştirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\Karakter-Değiştirme.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Değiştirme\Karakter-Değiştirme\obj\Debug\net6.0\ref\Karakter-Değiştirme.dll
