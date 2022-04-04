@@ -1,7 +1,4 @@
 ﻿#region Program.cs
-/*
- * 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377
- */
 try
 {
     Console.Write("Fibonacci dizisi uzunluğu girin : ");
@@ -10,7 +7,8 @@ try
     FibonacciAverage fibonacciAverage = new FibonacciAverage();
     try
     {
-        Console.WriteLine(fibonacciAverage.GetAverage(fibonacci.fibonacciNumbers));
+        Console.Write("fibonacciAverage : ");
+        Console.Write(fibonacciAverage.GetAverage(fibonacci.fibonacciNumbers));
     }
     catch (Exception ex)
     {
@@ -22,7 +20,6 @@ catch (Exception ex)
     Console.WriteLine(ex.Message);
 }
 #endregion
-
 #region Fibonacci.cs
 public class Fibonacci
 {
@@ -31,38 +28,41 @@ public class Fibonacci
 
 }
 #endregion
-
 # region FibonacciGenerator.cs
 public class FibonacciGenerator
 {
+    /* 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377*/
     public static Fibonacci Generator(long length)
     {
         Fibonacci fibonacci = new Fibonacci();
         long[] numbers = new long[length];
-        long x = 0;
-        for (long i = 0; i < length; i++)
+
+        int ilk = 1;
+        int son = 1;
+        int toplam;
+
+        for (long i = 1; i < length; i++) 
         {
             if (i < 2)
             {
-                numbers[i] = i;
-                x += i;
+                numbers[0] = ilk;
+                numbers[1] = son;
             }
             else
             {
-                long temp = 0;
-
-
-                numbers[i] = temp;
+                toplam = ilk + son;
+                ilk = son;
+                son = toplam;
+                numbers[i] = toplam;
             }
         }
-
 
         fibonacci.fibonacciNumbers = numbers;
         return fibonacci;
     }
+   
 }
 #endregion
-
 #region FibonacciAverage
 public class FibonacciAverage
 {
