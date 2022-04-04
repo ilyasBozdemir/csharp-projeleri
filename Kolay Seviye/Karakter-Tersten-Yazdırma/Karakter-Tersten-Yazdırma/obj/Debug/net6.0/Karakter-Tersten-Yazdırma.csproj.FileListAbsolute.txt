@@ -1,0 +1,15 @@
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.exe
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\bin\Debug\net6.0\Karakter-Tersten-Yazdırma.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\refint\Karakter-Tersten-Yazdırma.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\Karakter-Tersten-Yazdırma.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Karakter-Tersten-Yazdırma\Karakter-Tersten-Yazdırma\obj\Debug\net6.0\ref\Karakter-Tersten-Yazdırma.dll
