@@ -1,0 +1,15 @@
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\bin\Debug\net6.0\Integer-İkililerin-Toplamı.exe
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\bin\Debug\net6.0\Integer-İkililerin-Toplamı.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\bin\Debug\net6.0\Integer-İkililerin-Toplamı.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\bin\Debug\net6.0\Integer-İkililerin-Toplamı.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\bin\Debug\net6.0\Integer-İkililerin-Toplamı.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\refint\Integer-İkililerin-Toplamı.dll
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\Integer-İkililerin-Toplamı.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\Integer-İkililerin-Toplamı\Integer-İkililerin-Toplamı\obj\Debug\net6.0\ref\Integer-İkililerin-Toplamı.dll
