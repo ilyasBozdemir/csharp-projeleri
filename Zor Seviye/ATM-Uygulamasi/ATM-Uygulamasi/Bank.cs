@@ -9,19 +9,23 @@ namespace ATM_Uygulamasi
     public class Bank 
     {
         private  Customer _customer;
-        private bool InSignIn;
-        public void LogIn(Customer customer)
+        public bool InSignIn;
+        public bool LogIn(Customer customer)
         {
             _customer = customer;
+            //dogrulama kısmı yazılcak.
+            InSignIn = true;
+
+            return InSignIn;
         }
-        public void CheckOut(Customer customer)
+        public bool CheckOut(Customer customer)
         {
-            
+            return InSignIn = false;
         }
-        public bool IsTheCustomerSignedIn()
+        public void TakeTheEndOfTheDay()//günsonu al
         {
-            
-            return false;
+
         }
+
     }
 }

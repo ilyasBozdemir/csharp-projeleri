@@ -18,9 +18,22 @@ Dosyadan Okuma
 using ATM_Uygulamasi;
 
 Bank bank = new Bank();
-Customer customer = new Customer();
-if (true)
-{
+Customer customer = new Customer ();
+Console.Write("Hoşgeldiniz...\n");
+Console.Write("\nMüşteri Adı Girin : ");
+var customerData = Console.ReadLine();
+customer.customerName = customerData.Split(' ')[0];// (isim soyisim) varsayarak
+customer.customerSurname = customerData.Split(' ')[1];
+Console.Write("\nMüşteri Şifrenizi Girin : ");
 
-}
+
 bank.LogIn(customer);
+
+
+
+
+
+
+
+
+Console.Read();

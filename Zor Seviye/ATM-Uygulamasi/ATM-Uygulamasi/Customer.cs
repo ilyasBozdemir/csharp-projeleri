@@ -1,4 +1,4 @@
-﻿,using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,9 +9,9 @@ namespace ATM_Uygulamasi
     public class Customer 
     {
         public int customerID { get ; set; }
-        public int customerName { get; set; }
-        public int customerSurname { get; set; }
-        public int customerPassword { get; set; }
+        public string customerName { get; set; }
+        public string customerSurname { get; set; }
+        public string customerPassword { get; set; }
         public CustomerBalance customerBalance { get; set; }
     }
     public class customerTransactions 
@@ -27,15 +27,20 @@ namespace ATM_Uygulamasi
             
         }
 
-        public void ToPay(string To, double Balance)//ödeme yap.
+        public void ToPay(Customer customer, double Balance)//ödeme yap.
         {
            
+        }
+        public void SendMoney(Customer customer, double Balance)
+        {
+
         }
 
         public void WithdrawMoney(double balance)//para çek
         {
             
         }
+
     }
     public class CustomerBalance
     {

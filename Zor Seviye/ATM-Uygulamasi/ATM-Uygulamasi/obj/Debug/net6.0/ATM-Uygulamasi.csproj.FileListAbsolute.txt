@@ -1,0 +1,15 @@
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.exe
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.dll
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\bin\Debug\net6.0\ATM-Uygulamasi.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.dll
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\refint\ATM-Uygulamasi.dll
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ATM-Uygulamasi.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\ATM-Uygulamasi\ATM-Uygulamasi\obj\Debug\net6.0\ref\ATM-Uygulamasi.dll
