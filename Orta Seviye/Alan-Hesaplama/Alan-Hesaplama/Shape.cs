@@ -6,22 +6,29 @@ using System.Threading.Tasks;
 
 namespace Alan_Hesaplama
 {
-    //şekil için class yerine struct kullanilabilirdi ama, virtual kullanamadığımoz için class kullandık
     public abstract class Shape//Şekil
     {
+        ShapeFormulas shapeFormulas;
         public virtual void GetPerimeterCalculation()//çevre
         {
-          
+            shapeFormulas = new ShapeFormulas(this);
+            double cevre = 0;
+            Console.WriteLine("Çevre : " + cevre);
         }
         public virtual void GetAreaCalculation()//alan
         {
-           
+            shapeFormulas = new ShapeFormulas(this);
+            double alan = 0;
+            Console.WriteLine("Alan : " + alan);
         }
         public virtual void GetVolumeCalculation()//hacim
         {
-
+            shapeFormulas = new ShapeFormulas(this);
+            double hacim = 0;
+            Console.WriteLine("Hacim : " + hacim);
         }
     }
+    #region class's
     public class Circle : Shape /*daire*/
     { 
         public Circle()
@@ -38,24 +45,10 @@ namespace Alan_Hesaplama
     }
     public class Square : Shape/*kare*/
     {
-        public double kenarUzunlugu { get; set; }
-        public Square(double kenarUzunlugu,string secenek)
+       
+        public Square()
         {
-            this.kenarUzunlugu = kenarUzunlugu;
-            switch (secenek)
-            {
-                case "Çevre":
-
-                    break;
-                case "Alan":
-
-                    break;
-                case "Hacim":
-
-                    break;
-                default:
-                    break;
-            }
+            
         }
     }
     public class Rectangle : Shape/*dikdörtgen*/
@@ -94,4 +87,5 @@ namespace Alan_Hesaplama
         }
 
     }
+    #endregion
 }
