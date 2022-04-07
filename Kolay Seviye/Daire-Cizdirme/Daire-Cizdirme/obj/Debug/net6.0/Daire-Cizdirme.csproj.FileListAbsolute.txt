@@ -13,3 +13,19 @@ D:\GitHub\PatikaApp\csharp-projeleri\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net
 D:\GitHub\PatikaApp\csharp-projeleri\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.pdb
 D:\GitHub\PatikaApp\csharp-projeleri\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.genruntimeconfig.cache
 D:\GitHub\PatikaApp\csharp-projeleri\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\ref\Daire-Cizdirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\bin\Debug\net6.0\Daire-Cizdirme.exe
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\bin\Debug\net6.0\Daire-Cizdirme.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\bin\Debug\net6.0\Daire-Cizdirme.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\bin\Debug\net6.0\Daire-Cizdirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\bin\Debug\net6.0\Daire-Cizdirme.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\refint\Daire-Cizdirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\ref\Daire-Cizdirme.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Kolay Seviye\Daire-Cizdirme\Daire-Cizdirme\obj\Debug\net6.0\Daire-Cizdirme.csproj.ResolveComReference.cache
