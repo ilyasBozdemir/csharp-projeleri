@@ -27,7 +27,7 @@ namespace Alan_Hesaplama
         {
             ConsoleHelper consoleHelper = new ConsoleHelper();
             double r;
-            consoleHelper.ReadLine("Yarıçap Girin :", out R);
+            consoleHelper.ReadLine("Yarıçap Girin :", out r);
             return r;
         }
     }
