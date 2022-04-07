@@ -1,6 +1,6 @@
 ﻿using Alan_Hesaplama;
 Shape shape;
-int result = 0;
+int result = -1, result2 = -1;
 veriAl:
 string[] sekiller = { "Circle", "Triangle", "Square", "Rectangle", "Cube", "Cone", "Pyramid", "Cylinder" };
 string[] secenekler = { "Çevre", "Alan", "Hacim" };
@@ -77,7 +77,6 @@ switch (result)
 void BringOptions(bool Perimeter = true, bool Area = true, bool Volume = true)
 {
      secimYap:
-    int result2;
     //
     //if (Perimeter)
     //    Console.WriteLine($"{secenekler[0] } için {1} tuşlayın");
@@ -91,7 +90,6 @@ void BringOptions(bool Perimeter = true, bool Area = true, bool Volume = true)
     {
         if (states[i])
             Console.WriteLine($"{secenekler[i] } için {i + 1} tuşlayın");
-        
     }
     int.TryParse(Console.ReadLine(), out result2);
     switch (result2)
@@ -120,5 +118,4 @@ void BringOptions(bool Perimeter = true, bool Area = true, bool Volume = true)
     }
 
 }
-
 Console.ReadLine();

@@ -8,22 +8,18 @@ namespace Alan_Hesaplama
 {
     public abstract class Shape//Şekil
     {
-        ShapeFormulas shapeFormulas;
         public virtual void GetPerimeterCalculation()//çevre
         {
-            shapeFormulas = new ShapeFormulas(this);
             double cevre = 0;
             Console.WriteLine("Çevre : " + cevre);
         }
         public virtual void GetAreaCalculation()//alan
         {
-            shapeFormulas = new ShapeFormulas(this);
             double alan = 0;
             Console.WriteLine("Alan : " + alan);
         }
         public virtual void GetVolumeCalculation()//hacim
         {
-            shapeFormulas = new ShapeFormulas(this);
             double hacim = 0;
             Console.WriteLine("Hacim : " + hacim);
         }
