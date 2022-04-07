@@ -76,22 +76,47 @@ switch (result)
 
 void BringOptions(bool Perimeter = true, bool Area = true, bool Volume = true)
 {
+     secimYap:
     int result2;
-    if (Perimeter)
-        Console.WriteLine($"{secenekler[0] } için {1} tuşlayın");
-    if (Area)
-        Console.WriteLine($"{secenekler[1] } için {2} tuşlayın");
-    if (Volume)
-        Console.WriteLine($"{secenekler[2] } için {3} tuşlayın");
-
+    //
+    //if (Perimeter)
+    //    Console.WriteLine($"{secenekler[0] } için {1} tuşlayın");
+    //if (Area)
+    //    Console.WriteLine($"{secenekler[1] } için {2} tuşlayın");
+    //if (Volume)
+    //    Console.WriteLine($"{secenekler[2] } için {3} tuşlayın");
+    //
+    bool[] states = { Perimeter , Area , Volume };//yukardaki gibi yazmak sacamlık o yuzden asagıdaki kullanım dogrudur
+    for (int i = 0; i < states.Length; i++)
+    {
+        if (states[i])
+            Console.WriteLine($"{secenekler[i] } için {i + 1} tuşlayın");
+        
+    }
     int.TryParse(Console.ReadLine(), out result2);
     switch (result2)
     {
-
-
-
-        default:
+        #region case 1: 
+        case 1:
+         
             break;
+        #endregion
+        #region case 2: 
+        case 2:
+           
+            break;
+        #endregion
+        #region case 3: 
+        case 3:
+            
+            break;
+        #endregion
+        #region case default:
+        default:
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write("Lütfen seçim yapın.");
+            goto secimYap;
+            #endregion
     }
 
 }
