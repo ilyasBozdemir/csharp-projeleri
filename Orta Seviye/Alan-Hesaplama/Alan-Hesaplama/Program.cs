@@ -11,7 +11,10 @@ Console.ForegroundColor = ConsoleColor.Gray;
 Console.WriteLine("Şekil Seçimi Yapın.");
 int.TryParse(Console.ReadLine(), out result);
 Console.Clear();
-Console.WriteLine($"{result} -> {sekiller[result - 1]} seçildi ");
+if (result < sekiller.Length)
+{
+    Console.WriteLine($"{result} -> {sekiller[result - 1]} seçildi.");
+}
 #region switch
 
 switch (result)
@@ -43,6 +46,7 @@ switch (result)
     #region case 5: 
     case 5:
         shape = new Cube();
+       
         BringOptions();
         break;
     #endregion
@@ -84,7 +88,20 @@ void BringOptions(bool Perimeter = true, bool Area = true, bool Volume = true)
     int.TryParse(Console.ReadLine(), out result2);
     if (result2 < secenekler.Length)
     {
-
+        string SecilenSekil = sekiller[result - 1], SecilenTur = secenekler[result2 - 1];
+        Console.WriteLine($"{SecilenSekil} -> {SecilenTur} seçildi.");
+        // string[] secenekler = { "Çevre", "Alan", "Hacim" };
+        switch (result2)
+        {
+            case 1:
+                shape.GetPerimeterCalculation(); break;
+            case 2:
+                shape.GetAreaCalculation(); break;
+            case 3:
+                shape.GetVolumeCalculation(); break;
+            default:
+                break;
+        }
     }
     else
     {

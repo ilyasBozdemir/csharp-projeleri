@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Alan_Hesaplama.Helpers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,31 +7,34 @@ using System.Threading.Tasks;
 
 namespace Alan_Hesaplama
 {
-    public abstract class Shape//Şekil
+    public  class Shape//Şekil
     {
         public virtual void GetPerimeterCalculation()//çevre
         {
-            double cevre = 0;
-            Console.WriteLine("Çevre : " + cevre);
+            double cevre = ShapeHelper.PerimeterCalculation(this.GetType());
+            Console.WriteLine($"Çevre : {cevre} ");
         }
         public virtual void GetAreaCalculation()//alan
         {
-            double alan = 0;
-            Console.WriteLine("Alan : " + alan);
+            double alan = ShapeHelper.AreaCalculation(this.GetType());
+            Console.WriteLine($"Alan : {alan}");
         }
         public virtual void GetVolumeCalculation()//hacim
         {
-            double hacim = 0;
-            Console.WriteLine("Hacim : " + hacim);
+            double hacim = ShapeHelper.VolumeCalculation(this.GetType());
+            Console.WriteLine($"Hacim : {hacim}");
         }
     }
+    
     #region class's
     public class Circle : Shape /*daire*/
-    { 
+    {
         public Circle()
         {
-
+         
         }
+
+
     }
     public class Triangle : Shape/*üçgen*/
     {
@@ -41,7 +45,6 @@ namespace Alan_Hesaplama
     }
     public class Square : Shape/*kare*/
     {
-       
         public Square()
         {
             
@@ -70,6 +73,7 @@ namespace Alan_Hesaplama
     }
     public class Pyramid : Shape/*piramit*/
     {
+       
         public Pyramid()
         {
 
