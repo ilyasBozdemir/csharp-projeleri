@@ -1,0 +1,30 @@
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.exe
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\refint\Sessiz-Harf.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\ref\Sessiz-Harf.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.exe
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\bin\Debug\net6.0\Sessiz-Harf.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\refint\Sessiz-Harf.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\Sessiz-Harf.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Sessiz-Harf\Sessiz-Harf\obj\Debug\net6.0\ref\Sessiz-Harf.dll
