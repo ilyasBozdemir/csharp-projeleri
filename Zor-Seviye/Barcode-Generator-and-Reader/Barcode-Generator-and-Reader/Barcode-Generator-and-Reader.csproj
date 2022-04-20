@@ -8,4 +8,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="BarcodeLib" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BarcodeLib.BarcodeReader">
+      <HintPath>C:\Users\BozdemirHome\Desktop\BarcodeLib_NETBarcodeReader_Trial\DLL\NET40\BarcodeLib.BarcodeReader.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

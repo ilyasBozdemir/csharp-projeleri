@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ssmIwe+2yp01LHC0scFNafrAQnPs424U9Ad4U7E5a3aG8paTKllUEBxh+7YMl4fP1wltoSmbvw6b4vdTBxiH0A==",
+  "dgSpecHash": "VtqRF1JLyLVNMAL4chQcALTKX5/r2bnI1WSW1pqgK/2pMmivisSnZzMS5xeFm8YL63UQwlAJuK4dP1jlDQ42iA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\csharp-projeleri\\Zor-Seviye\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BozdemirHome\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\BozdemirHome\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\BozdemirHome\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\BozdemirHome\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\BozdemirHome\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

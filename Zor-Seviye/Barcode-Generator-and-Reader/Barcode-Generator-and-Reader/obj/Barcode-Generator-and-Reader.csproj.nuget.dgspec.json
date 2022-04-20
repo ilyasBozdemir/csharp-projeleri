@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\PatikaApp\\csharp-projeleri\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj": {}
+    "D:\\GitHub\\PatikaApp\\csharp-projeleri\\csharp-projeleri\\Zor-Seviye\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\PatikaApp\\csharp-projeleri\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj": {
+    "D:\\GitHub\\PatikaApp\\csharp-projeleri\\csharp-projeleri\\Zor-Seviye\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj",
+        "projectUniqueName": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\csharp-projeleri\\Zor-Seviye\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj",
         "projectName": "Barcode-Generator-and-Reader",
-        "projectPath": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj",
+        "projectPath": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\csharp-projeleri\\Zor-Seviye\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader.csproj",
         "packagesPath": "C:\\Users\\BozdemirHome\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\obj\\",
+        "outputPath": "D:\\GitHub\\PatikaApp\\csharp-projeleri\\csharp-projeleri\\Zor-Seviye\\Barcode-Generator-and-Reader\\Barcode-Generator-and-Reader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "BarcodeLib": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
