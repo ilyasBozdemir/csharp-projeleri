@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BankDB>
+  <Clients>
+    <Client id="321546879">
+      <ClientInfo>
+        <Name>İlyas</Name>
+        <Surname>Bozdemir</Surname>
+        <Password>test12345</Password>
+        <Balance type="₺">15000</Balance>
+      </ClientInfo>
+    </Client>
+    <Client id="123876543">
+      <ClientInfo>
+        <Name>Mehmet</Name>
+        <Surname>Bozdemir</Surname>
+        <Password>12345test</Password>
+        <Balance type="₺">2500</Balance>
+      </ClientInfo>
+    </Client>
+  </Clients>
+</BankDB>
+
+
