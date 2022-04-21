@@ -1,0 +1,15 @@
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\bin\Debug\net6.0\Voting-Uygulamasi.exe
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\bin\Debug\net6.0\Voting-Uygulamasi.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\bin\Debug\net6.0\Voting-Uygulamasi.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\bin\Debug\net6.0\Voting-Uygulamasi.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\bin\Debug\net6.0\Voting-Uygulamasi.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\refint\Voting-Uygulamasi.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\Voting-Uygulamasi.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Zor-Seviye\Voting-Uygulamasi\Voting-Uygulamasi\obj\Debug\net6.0\ref\Voting-Uygulamasi.dll
