@@ -12,11 +12,8 @@ namespace Alan_Hesaplama.Helpers
         public static double PerimeterCalculation(Type type)//çevre
         {
             double cevre = 0;//bu kadar if else blokları pek mantıklı değil ama:)
-            if ((new Circle()).GetType() == type)
-            {
-
-            }
-            else if ((new Triangle()).GetType() == type)
+            
+            if ((new Triangle()).GetType() == type)
             {
                 for (int i = 0; i < 3; i++)
                     cevre += ShapeProperties.GetEdge((byte)i);
@@ -24,9 +21,16 @@ namespace Alan_Hesaplama.Helpers
             }
             else if ((new Square()).GetType() == type)
             {
-
+                double kenar = ShapeProperties.GetEdge(1);
+                cevre = kenar * 4;
             }
             else if ((new Rectangle()).GetType() == type)
+            {
+                double kenarA = ShapeProperties.GetEdge(1);
+                double kenarB = ShapeProperties.GetEdge(2);
+                cevre = (kenarA + kenarB) * 2;
+            }
+            else if((new Circle()).GetType() == type)
             {
 
             }
@@ -50,26 +54,30 @@ namespace Alan_Hesaplama.Helpers
             {
 
             }
-
             return cevre;
         }
 
         public static double AreaCalculation(Type type)//alan
         {
             double alan = 0;
-            if ((new Circle()).GetType() == type)
+            if ((new Triangle()).GetType() == type)
             {
-
-            }
-            else if ((new Triangle()).GetType() == type)
-            {
-
+                double kenarA = ShapeProperties.GetEdge(1);
+                double kenarH = ShapeProperties.GetHeight();
+                alan = (kenarA * kenarH) / 2;
             }
             else if ((new Square()).GetType() == type)
             {
-
+                double kenarA = ShapeProperties.GetEdge(1);
+                alan = Math.Pow(kenarA, 2);
             }
             else if ((new Rectangle()).GetType() == type)
+            {
+                double kenarA = ShapeProperties.GetEdge(1);
+                double kenarB = ShapeProperties.GetEdge(1);
+                alan = (kenarA * kenarB);
+            }
+            else if ((new Circle()).GetType() == type)
             {
 
             }
@@ -93,8 +101,6 @@ namespace Alan_Hesaplama.Helpers
             {
 
             }
-
-
             return alan;
         }
         public static double VolumeCalculation(Type type)//hacim
@@ -139,7 +145,5 @@ namespace Alan_Hesaplama.Helpers
 
             return hacim;
         }
-
-
     }
 }

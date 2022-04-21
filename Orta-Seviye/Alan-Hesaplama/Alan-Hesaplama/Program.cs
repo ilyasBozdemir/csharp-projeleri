@@ -2,7 +2,7 @@
 Shape shape;
 int result = -1, result2 = -1;
 veriAl:
-string[] sekiller = { "Circle", "Triangle", "Square", "Rectangle", "Cube", "Cone", "Pyramid", "Cylinder" };
+string[] sekiller = {  "Triangle", "Square", "Rectangle", "Circle", "Cube", "Cone", "Pyramid", "Cylinder" };
 string[] secenekler = { "Çevre", "Alan", "Hacim" };
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine($"not :başlangıc olarak sadece ilk 3 şekil formulleri girilmiştir.");
@@ -14,34 +14,32 @@ Console.WriteLine("Şekil Seçimi Yapın.");
 int.TryParse(Console.ReadLine(), out result);
 Console.Clear();
 if (result < sekiller.Length)
-{
     Console.WriteLine($"{result} -> {sekiller[result - 1]} seçildi.");
-}
 #region switch
 
 switch (result)
 {
     #region case 1: 
     case 1:
-        shape = new Circle();
-        BringOptions();
+        shape = new Triangle();
+        BringOptions(Volume: false);
         break;
     #endregion
     #region case 2: 
     case 2:
-        shape = new Triangle();
+        shape = new Square();
         BringOptions(Volume: false);
         break;
     #endregion
     #region case 3: 
     case 3:
-        shape = new Square();
+        shape = new Rectangle();
         BringOptions(Volume: false);
         break;
     #endregion
     #region case 4: 
     case 4:
-        shape = new Rectangle();
+        shape = new Circle();
         BringOptions(Volume: false);
         break;
     #endregion
