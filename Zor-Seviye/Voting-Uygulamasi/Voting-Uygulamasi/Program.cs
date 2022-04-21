@@ -7,10 +7,10 @@ user.userName = Console.ReadLine();
 if (userControl.GetUser(user))
 {
     Categories categories = new Categories();
-    CategoryHelper categoryHelper = new CategoryHelper();
-    categoryHelper.WriteConsole(categories.FilmVoting);
-    categoryHelper.WriteConsole(categories.SporVoting);
-    categoryHelper.WriteConsole(categories.TechStackVoting);
+    CategoryHelper categoryHelper = new CategoryHelper(categories);
+    categoryHelper.WriteConsole(categories.FilmVoting, "film");
+    categoryHelper.WriteConsole(categories.SporVoting, "spor");
+    categoryHelper.WriteConsole(categories.TechStackVoting, "tech stack");
     categoryHelper.GetVotingResult();
 }
 else
