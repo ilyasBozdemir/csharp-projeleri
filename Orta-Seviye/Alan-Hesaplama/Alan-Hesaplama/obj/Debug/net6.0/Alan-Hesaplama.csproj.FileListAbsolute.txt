@@ -13,3 +13,18 @@ D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Alan-Hesaplama
 D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.pdb
 D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.genruntimeconfig.cache
 D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\ref\Alan-Hesaplama.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.csproj.AssemblyReference.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.AssemblyInfoInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.AssemblyInfo.cs
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.csproj.CoreCompileInputs.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\refint\Alan-Hesaplama.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\bin\Debug\net6.0\Alan-Hesaplama.exe
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\bin\Debug\net6.0\Alan-Hesaplama.deps.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\bin\Debug\net6.0\Alan-Hesaplama.runtimeconfig.json
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\bin\Debug\net6.0\Alan-Hesaplama.dll
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\bin\Debug\net6.0\Alan-Hesaplama.pdb
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\Alan-Hesaplama.genruntimeconfig.cache
+D:\GitHub\PatikaApp\csharp-projeleri\csharp-projeleri\Orta-Seviye\Alan-Hesaplama\Alan-Hesaplama\obj\Debug\net6.0\ref\Alan-Hesaplama.dll

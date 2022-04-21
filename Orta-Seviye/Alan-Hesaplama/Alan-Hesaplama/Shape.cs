@@ -19,6 +19,7 @@ namespace Alan_Hesaplama
         public virtual void GetAreaCalculation()//alan
         {
             double alan = ShapeHelper.AreaCalculation(this.GetType());
+
             Console.WriteLine($"Alan : {alan}");
         }
         public virtual void GetVolumeCalculation()//hacim

@@ -5,6 +5,8 @@ veriAl:
 string[] sekiller = { "Circle", "Triangle", "Square", "Rectangle", "Cube", "Cone", "Pyramid", "Cylinder" };
 string[] secenekler = { "Çevre", "Alan", "Hacim" };
 Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine($"not :başlangıc olarak sadece ilk 3 şekil formulleri girilmiştir.");
+Console.WriteLine();
 for (int i = 0; i < sekiller.Length; i++)
     Console.WriteLine($"{sekiller[i] } için {i + 1} tuşlayın");
 Console.ForegroundColor = ConsoleColor.Gray;
@@ -76,8 +78,6 @@ switch (result)
         #endregion
 }
 #endregion
-
-
 void BringOptions(bool Perimeter = true, bool Area = true, bool Volume = true)
 {
      secimYap:
@@ -98,7 +98,7 @@ void BringOptions(bool Perimeter = true, bool Area = true, bool Volume = true)
             case 2:
                 shape.GetAreaCalculation(); break;
             case 3:
-                shape.GetVolumeCalculation(); break;
+               shape.GetVolumeCalculation(); break;
             default:
                 break;
         }

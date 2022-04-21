@@ -16,11 +16,11 @@ namespace Alan_Hesaplama
             consoleHelper.ReadLine("Yükseklik Girin :", out h);
             return h;
         }
-        public static double GetEdge()//kenar
+        public static double GetEdge(byte kenarNo)//kenar
         {
             ConsoleHelper consoleHelper = new ConsoleHelper();
             double e;
-            consoleHelper.ReadLine("Kenar Girin :", out e);
+            consoleHelper.ReadLine($"{kenarNo}. Kenar Girin :", out e);
             return e;
         }
         public static double GetR()
